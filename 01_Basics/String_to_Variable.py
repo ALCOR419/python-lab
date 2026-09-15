@@ -1,0 +1,2 @@
+a = "ASHIHS"
+print(a)
